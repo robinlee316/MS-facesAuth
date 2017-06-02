@@ -61,7 +61,7 @@ namespace faceDetection
             }
         }
 
-        static FaceServiceClient faceServiceClient = new FaceServiceClient("071d9594ccaa40229328defac076b2b1");
+        static FaceServiceClient faceServiceClient = new FaceServiceClient("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 
 
 
